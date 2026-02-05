@@ -7,9 +7,11 @@ t.pencolor("Black")
 for i in range(50):
     t.forward(i * 5)
     t.right(90)
+    
 for i in range(50):
     t.forward(i * 5)
     t.right(90)
+
 for i in range(50):
     t.forward(i * 5)
     t.right(90)
